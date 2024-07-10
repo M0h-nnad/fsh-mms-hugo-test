@@ -1,0 +1,6 @@
+theme: "up-business-theme"
+
+module:
+  module.hugoVersion:
+    extended: true
+    min: "0.115.4"
