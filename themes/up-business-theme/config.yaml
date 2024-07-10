@@ -2,15 +2,15 @@ baseURL: "https://m0h-nnad.github.io/fsh-mms-hugo-test/"
 theme: "up-business-theme"
 languageCode: "en-us"
 
-title: "FSH MMS "
+title: "FSH MMS"
 
 # googleAnalytics: ""
 
 summaryLength: 20
 
 params:
-  title: "FSH MMS "
-  description: "We specialize in providing services to desing websites, applications, build and maintain business for customers."
+  title: "FSH MMS"
+  description: "We specialize in providing services"
   images: 
     - "images/hero-image.png"
 
