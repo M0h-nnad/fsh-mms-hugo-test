@@ -1,5 +1,7 @@
 theme: "up-business-theme"
 
+Title: 'Fsh mms'
+
 module:
   module.hugoVersion:
     extended: true

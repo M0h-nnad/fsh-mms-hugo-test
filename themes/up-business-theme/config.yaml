@@ -2,15 +2,15 @@ baseURL: "https://m0h-nnad.github.io/fsh-mms-hugo-test/"
 theme: "up-business-theme"
 languageCode: "en-us"
 
-title: "FSH MMS"
+title: "fsh mms"
 
 # googleAnalytics: ""
 
 summaryLength: 20
 
 params:
-  title: "FSH MMS"
-  description: "We specialize in providing services"
+  title: "fsh mms"
+  description: "Powering the Future of Fintech"
   images: 
     - "images/hero-image.png"
 
@@ -43,21 +43,17 @@ menus:
       url: "/#hero"
       weight: 1
 
-    - name: "How we work"
+    - name: "About"
       url: "/#"
       weight: 2
 
-    - name: "Our team"
+    - name: "Services"
       url: "/#"
       weight: 3
 
-    - name: "Pricing"
+    - name: "Contact"
       url: "/#"
       weight: 4
-
-    - name: "Blog"
-      url: "/blog"
-      weight: 5
 
   buttons:
     - name: "Book a call"
@@ -70,21 +66,17 @@ menus:
       url: "/#hero"
       weight: 1
 
-    - name: "How we work"
+    - name: "About"
       url: "/#"
       weight: 2
 
-    - name: "Our team"
+    - name: "Services"
       url: "/#"
       weight: 3
 
-    - name: "Pricing"
+    - name: "Contact"
       url: "/#"
       weight: 4
-
-    - name: "Blog"
-      url: "/blog"
-      weight: 5
 
 taxonomies:
   series: "series"

@@ -3,9 +3,16 @@ id: "portfolio"
 
 content:
   - image: "images/portfolio-ecommerce.png"
-    pretitle: "Portfolio Service"
-    title: "We developed an eCommerce website"
-    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sed euismod quis sit gravida pharetra sit. Cursus vel enim pretium vulputate semper sem elit magna neque. Aliquet adipisc."
+    pretitle: "Our Offerings"
+    title: "POS Solutions and Payments"
+    text: "<ul>
+  <li>Integrated POS system with sleek hardware and intuitive software</li>
+  <li>Omnichannel capabilities for unified experiences</li>
+  <li>Advanced business management tools for real-time insights and operations</li>
+  <li>Seamless payment processing across credit/debit cards, mobile wallets, and alternative payment methods</li>
+  <li>Secure payment gateway with advanced fraud detection and chargeback management</li>
+  <li>Customizable checkout experiences to optimize conversion rates</li>
+</ul>"
 
     buttons: 
       - label: "See live"
@@ -15,9 +22,14 @@ content:
         url: "#"
 
   - image: "images/portfolio-ecommerce.png"
-    pretitle: "Portfolio Service"
-    title: "We developed an eCommerce website"
-    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sed euismod quis sit gravida pharetra sit. Cursus vel enim pretium vulputate semper sem elit magna neque. Aliquet adipisc."
+    pretitle: "Our Offerings"
+    title: "Data & Analytics"
+    text: "<ul>
+  <li>Real-time transaction insights and reporting</li>
+  <li>Predictive analytics to drive business decisions</li>
+  <li>Customer segmentation and targeted marketing capabilities</li>
+</ul>
+"
 
     buttons: 
       - label: "See live"
@@ -27,9 +39,16 @@ content:
         url: "#"
 
   - image: "images/portfolio-ecommerce.png"
-    pretitle: "Portfolio Service"
-    title: "We developed an eCommerce website"
-    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sed euismod quis sit gravida pharetra sit. Cursus vel enim pretium vulputate semper sem elit magna neque. Aliquet adipisc."
+    pretitle: "Our Offerings"
+    title: "Why Choose FSH?"
+    text: "<ul>
+  <li>Accelerate Time-to-Market: Our pre-built solutions allow you to launch new fintech products and services faster than building from scratch.</li>
+  <li>Scalable Infrastructure: Our robust, enterprise-grade platform can handle high-volume transactions and growing customer demands.</li>
+  <li>Reduced Operational Costs: Leverage our economies of scale to cut costs associated with payment processing, compliance, and IT maintenance.</li>
+  <li>Regulatory Expertise: Stay ahead of evolving financial regulations with our dedicated team of compliance specialists.</li>
+  <li>Seamless Integration: Easily connect FSH with your existing systems and third-party tools through our comprehensive API suite.</li>
+</ul>
+"
 
     buttons: 
       - label: "See live"
